@@ -1,4 +1,6 @@
 name = Surprise
 description = Summer Reading Program Prize Management
 core = 7.x
+dependencies[] = achievements
+dependencies[] = views
 
