@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the User Registration Feature Test feature.
+ */
+
+include_once 'user_registration_feature_test.features.inc';

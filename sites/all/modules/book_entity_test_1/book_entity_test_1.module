@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Book Entity Test 1 feature.
+ */
+
+include_once 'book_entity_test_1.features.inc';

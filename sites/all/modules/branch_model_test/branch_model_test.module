@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Branch Model Test feature.
+ */
+
+include_once 'branch_model_test.features.inc';
